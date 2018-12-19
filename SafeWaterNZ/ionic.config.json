@@ -1,0 +1,7 @@
+{
+  "name": "SafeWaterNZ",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
